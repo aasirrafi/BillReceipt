@@ -50,10 +50,10 @@ Fisrt add the STYLESHEET link inside the head tag of html file(<head>
 - On button click receipt will be download as `PDF`
 ![picture](https://github.com/aasirrafi/BillReceipt/blob/main/img/pdfbutton.PNG)
 
-- User cn enter input priduct , their untuty nd prices nd generte slip
+- User can enter input product , their quantity and prices and generate slip
 ![picture](https://github.com/aasirrafi/BillReceipt/blob/main/img/listappend.PNG)
 
--User cn enter compny nme, their nme , phone nd emil for the reference of receipt
+- User can enter company name, their name , phone and email for the reference of receipt
 ![picture](https://github.com/aasirrafi/BillReceipt/blob/main/img/detailsappend.PNG)
 
 
