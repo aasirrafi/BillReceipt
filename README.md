@@ -18,12 +18,12 @@ This is UI where you can give inputs to generate receipt.
 
 
 
-![picture](https://github.com/aasirrafi/BillReceipt/blob/main/ui.PNG)
+![picture](https://github.com/aasirrafi/BillReceipt/blob/main/img/ui.PNG)
 This is the PDF file when all inputs are taken and user decides to print the PDF.
 
 
 
-![picture](https://github.com/aasirrafi/BillReceipt/blob/main/reciept.PNG)
+![picture](https://github.com/aasirrafi/BillReceipt/blob/main/img/reciept.PNG)
 
 
 # SOFTWARE I USED:
@@ -40,13 +40,20 @@ To *style* my receipt so that it looks attractive
 
 ## -App.js
 This is my script file where I write all the *javascript code*.
-    -What I write in Javascript file
+ 
 Fisrt add the STYLESHEET link inside the head tag of html file(<head>
   <link rel="stylesheet" href="style.css">
 </head>)
 
+#What I write in Javascript file
 
+- On button click receipt will be download as `PDF`
+![picture](https://github.com/aasirrafi/BillReceipt/blob/main/img/pdfbutton.PNG)
 
-# 
+- User cn enter input priduct , their untuty nd prices nd generte slip
+![picture](https://github.com/aasirrafi/BillReceipt/blob/main/img/listappend.PNG)
+
+-User cn enter compny nme, their nme , phone nd emil for the reference of receipt
+![picture](https://github.com/aasirrafi/BillReceipt/blob/main/img/detailsappend.PNG)
 
 
